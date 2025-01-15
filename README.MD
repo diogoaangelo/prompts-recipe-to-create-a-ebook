@@ -35,10 +35,14 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 5 variações de títulos criativos, mágicos e cativantes para um livro infantil que reúne mini contos sobre um reino encantado. O título deve refletir os temas principais do livro, como animais falantes, aventuras em florestas mágicas, mistérios sob o céu estrelado, tesouros escondidos e momentos de magia no dia a dia. O título deve ser curto, fácil de lembrar e atrativo para crianças de 4 a 8 anos.                                                        |
-| conteúdo | Crie cinco capítulos temáticos para um livro infantil de mini contos chamado 'As Aventuras do Reino Encantado'. Cada capítulo deve seguir as seguintes regras:|
+| conteúdo | Crie cinco capítulos temáticos e um glossário lúdico para um livro infantil de mini contos chamado 'As Aventuras do Reino Encantado'. Cada capítulo deve seguir as seguintes regras:|
 |{REGRAS}| 
 |Tema Central: Cada capítulo deve ter um tema único e encantador, como florestas mágicas, mistérios noturnos, aventuras com animais falantes, descobertas de tesouros ou magia no cotidiano.|
 |Título do Capítulo: O título deve ser curto (no máximo 6 palavras), cativante e fácil de entender para crianças entre 4 e 8 anos.|
+|Conteúdo: Descreva brevemente o tema principal e os elementos que os contos daquele capítulo devem abordar.|
+|Tom Narrativo: Alegre, mágico e cheio de imaginação, adequado para despertar o interesse infantil.|
+|Coerência: Os capítulos devem se conectar ao tema geral do livro, refletindo o encanto e as aventuras do Reino Encantado.|
+|Quantidade: Liste 5 capítulos com títulos e descrições.|
 
 
 Midjourney：
