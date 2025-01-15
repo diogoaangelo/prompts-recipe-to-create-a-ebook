@@ -54,12 +54,7 @@ Bing Images Create：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| Capa | Crie uma ilustração mágica e vibrante para o livro infantil 'As Aventuras do Reino Encantado'. 
-Um bosque encantado;
-Cogumelos brilhantes e vagalumes no meio da floresta;
-Um céu estrelado e uma lua sorridente;
-Um jardim mágico cheio de flores;
-A arte deve ter um estilo infantil, com cores alegres e detalhes que transmitam magia e encanto. Cada elemento deve ser integrado harmoniosamente para criar um cenário que capture a imaginação das crianças. |
+| Capa | Crie uma ilustração mágica e vibrante para o livro infantil 'As Aventuras do Reino Encantado', contendo: um bosque encantado,cogumelos brilhantes e vagalumes no meio da floresta, um céu estrelado e uma lua sorridente, um jardim mágico cheio de flores. A arte deve ter um estilo infantil, com cores alegres e detalhes que transmitam magia e encanto. Cada elemento deve ser integrado harmoniosamente para criar um cenário que capture a imaginação das crianças. |
 
 ## ✨ Features
 
