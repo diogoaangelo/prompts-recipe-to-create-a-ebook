@@ -42,28 +42,36 @@ ChatGPT：
 |Conteúdo: Descreva brevemente o tema principal e os elementos que os contos daquele capítulo devem abordar.|
 |Tom Narrativo: Alegre, mágico e cheio de imaginação, adequado para despertar o interesse infantil.|
 |Coerência: Os capítulos devem se conectar ao tema geral do livro, refletindo o encanto e as aventuras do Reino Encantado.|
-|Quantidade: Liste 5 capítulos com títulos e descrições.|
+|Quantidade: Liste 4 capítulos com títulos e descrições e um glossário lúdico.|
+| Regras para o Glossário Lúdico: | 
+|Liste até 20 palavras mágicas ou expressões encantadoras que aparecem no livro.|
+|Cada palavra ou expressão deve ter uma explicação simples e divertida, adequada para o público infantil.|
+|Inclua termos que incentivem a curiosidade e a imaginação das crianças, como nomes de lugares mágicos, criaturas encantadas ou objetos especiais.|
+|Certifique-se de que o glossário complemente e enriqueça a experiência de leitura do livro.|
 
 
-Midjourney：
+Bing Images Create：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| Capa | Crie uma ilustração mágica e vibrante para o livro infantil 'As Aventuras do Reino Encantado'. 
+Um bosque encantado;
+Cogumelos brilhantes e vagalumes no meio da floresta;
+Um céu estrelado e uma lua sorridente;
+Um jardim mágico cheio de flores;
+A arte deve ter um estilo infantil, com cores alegres e detalhes que transmitam magia e encanto. Cada elemento deve ser integrado harmoniosamente para criar um cenário que capture a imaginação das crianças. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Bing Images Create
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
 
