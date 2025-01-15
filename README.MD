@@ -9,7 +9,7 @@
 <p align="center">
 <img 
     src="./assets/Histórias do Reino Encantado.jpg"
-    width="100"  
+    width="200"  
 />
 </p>
 
